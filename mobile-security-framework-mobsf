@@ -1,0 +1,1 @@
+sudo docker run -it -p 8001:8001 opensecurity/mobile-security-framework-mobsf
