@@ -1,1 +1,6 @@
+==============================================================================
+[+] Deploy mobile-security-framework-mobsf
+==============================================================================
+
+docker pull opensecurity/mobile-security-framework-mobsf
 sudo docker run -it -p 8001:8001 opensecurity/mobile-security-framework-mobsf
